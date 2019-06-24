@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Alessandro Cipriani"
+title: "Alessandro Cipriani"
+description: "Blog su scuola e tecnologia"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll
@@ -14,8 +14,8 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Alessandro Cipriani
+    display_name: Alessandro Cipriani
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
@@ -23,7 +23,7 @@ authors:
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
     name: John
-    display_name: John    
+    display_name: John
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
@@ -38,7 +38,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -46,11 +46,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 
