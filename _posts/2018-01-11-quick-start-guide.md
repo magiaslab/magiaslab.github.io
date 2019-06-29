@@ -5,7 +5,7 @@ author: Alessandro Cipriani
 categories:
 - Scuola
 - Digitale
-image: ''
+image: uploads/Registro elettronico (2).jpg
 featured: true
 hidden: true
 
